@@ -12,6 +12,14 @@ We are **Exact Bytes**, a team of passionate developers, designers, and innovato
 
 ---
 
+## 👥 Team Members
+- [Jyoshini Sri](https://github.com/jyoshinisris)
+- [Ugesh Praavin](https://github.com/Ugesh-2909)
+- [Akshaya](https://github.com/Akshaya2006-hub)
+- [Preethi](/)
+
+---
+
 ## 🚀 What We Do
 ✅ **Develop cutting-edge projects** in food-tech 🥗💡  
 ✅ **Participate in global hackathons** & competitions 🏆  
